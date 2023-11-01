@@ -1,0 +1,76 @@
+{
+  "project_info": {
+    "project_number": "291798391076",
+    "project_id": "automatic-attendance-sys",
+    "storage_bucket": "automatic-attendance-sys.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:291798391076:android:b720466b2ea04b9c0a7bb1",
+        "android_client_info": {
+          "package_name": "com.example.automatic_attendance_sys"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "291798391076-fbrnnmv8p4nqdpubhtln3qt8r7d3nepq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.automatic_attendance_sys",
+            "certificate_hash": "055656817e3beabcf9ebfc0052e3527d22e8a724"
+          }
+        },
+        {
+          "client_id": "291798391076-prhcttp9lkmfhdmoakoeam7g04kt04o3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCpjiSshJeVJee5H3TQ51ms6F0GJOKx-1Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "291798391076-prhcttp9lkmfhdmoakoeam7g04kt04o3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:291798391076:android:edb7646773442ba70a7bb1",
+        "android_client_info": {
+          "package_name": "com.example.gp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "291798391076-prhcttp9lkmfhdmoakoeam7g04kt04o3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCpjiSshJeVJee5H3TQ51ms6F0GJOKx-1Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "291798391076-prhcttp9lkmfhdmoakoeam7g04kt04o3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
